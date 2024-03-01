@@ -15,7 +15,7 @@ Emojiclass get getActiveEmoji {
 }
 changeActiveIndex() {
   if(activeIndex+1 <emojiList.length){
-    activeIndex.value++;
+    activeIndex.value;
 
   }
 else{
